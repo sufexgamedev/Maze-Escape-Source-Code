@@ -24,6 +24,9 @@ This project was created as my second step into Unity Game Engine to improve and
 - Working with multiple levels
 - Improving problem-solving skills in game programming
 
+# 🕹️ How to Download Game (Available for Windows)
+- Download **Maze Escape** By Clicking Here: https://github.com/sufexgamedev/Maze-Escape-Source-Code/releases
+
 # How to Play
 - Use **WASD** or **Arrow Keys** to move the player
 - Collect all coins in the maze
